@@ -4,4 +4,4 @@ This repository contains code for working with the affine space F_3^n. The provi
 Goals: 
 1) Generate all 2-caps for F_3^4. So far we can generate 2-caps but only ones that include three specific points, which greatly limits how many we can find.
 2) Find all valid affine transformations in F_3^4
-3) Use results from goals 1 and 2 to determine whether or not all 2-caps in F_3^4 are equivalent.
+3) Use results from goals 1 and 2 to determine whether or not all 2-caps in F_3^4 are affinely equivalent.
